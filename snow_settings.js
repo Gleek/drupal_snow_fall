@@ -1,3 +1,3 @@
 $(document).ready(function(){
-    $(document).snowfall({image :"flake.png", minSize: 50, maxSize:100});
+    $(document).snowfall({image :"sites/all/modules/snow/flake.png", minSize: 8, maxSize:23});
 });
